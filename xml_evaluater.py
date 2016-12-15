@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# cmd_interpret.py by Cubohan
+# circa 2016
+
 def add(els):
     print("Executing...")
     print(" + ".join(map(str, els)), ' = {}'.format(sum(els)))
