@@ -17,22 +17,7 @@ SAMPLE INPUT:
 {“group” : {list : [1,2,3]}, “list” : [“a”,”b”,”c”]}
 
 SAMPLE OUTPUT:
-
-{
-
-  “group” : {
-      List : [
-                1,
-                2,
-                3
-             ]
-  },
-  “list” : [
-              “a”,
-              ”b”,
-              ”c”
-            ]
-}
+Indented prettier JSON
 
 EXPLANATION: Input will be uglifiedjson in one line and output will be prettified format of that.
 
