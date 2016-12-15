@@ -42,8 +42,8 @@ def test():
           '{“group” : {lis : [1,2,3]}, “list” : [“a”,”b”,”c”]}',
           '{“group” : {lis : [1,2,3]}, “list” : [“a”,”b”,”c”]}',
          ]
-    for i in range(5):
+    for i in range(len(st):
         print_json(st[i])
-        print("HAHAHAHAHHAHAHAHAHAHAHAHAHAHA")
+        print("\n\n **END** \n\n")
         
 if __name__ == "__main__": test()
